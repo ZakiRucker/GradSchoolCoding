@@ -1,0 +1,19 @@
+Q1: x,y = y,x 
+This is Python way to swap 2 numbers
+printing in a function is OK.
+
+Q2: If a function does not have a return nothing is returned.
+
+Q3: a filter checks a certain condition if true it then prints the number from the list. It does NOT print True or False.
+
+Q4: sum += x means sum = sum + x , this is a way to add numbers when it is inside a loop.
+
+Q5: Python len function is used to determine the number of elements in a list. 
+If the list has many sub-lists as it's members then the len function is applied to each member (sub-list) and 
+the filter decides if the length is less than a given number. 
+So output is NOT True or False but 
+all the members (sub-lists) that satisfy the condition of the filter.
+
+L=[ [1,2], [5,7,8]] # keep all sublists in L whose length is less than 3
+print (list(filter(lambda L2 : len(L2) < 3, L)))
+output is [(1,2)]

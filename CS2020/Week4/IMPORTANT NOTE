@@ -1,0 +1,1 @@
+***NOTE: if you are running these programs with python version 2.7 then you will see that the program output might look weird. Either the escape characters will be printed instead of doing a tab or space; or it will have brackets, commas, or other characters to make the output look abnormal. To fix this problem delete the parenthesis around the contents of the print statement.

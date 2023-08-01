@@ -1,0 +1,37 @@
+(lp0
+(S'11-1111'
+p1
+S'screw driver'
+p2
+F6.95
+I10
+tp3
+a(S'22-2222'
+p4
+S'wrench'
+p5
+F9.95
+I20
+tp6
+a(S'33-3333'
+p7
+S'jig saw'
+p8
+F49.95
+I15
+tp9
+a(S'44-4444'
+p10
+S'hammer'
+p11
+F19.95
+I40
+tp12
+a(S'55-5555'
+p13
+S'chain saw'
+p14
+F99.95
+I10
+tp15
+a.
