@@ -4,8 +4,10 @@ a.out
 *.tar
 */CS3040.xcodeproj/*
 *.png
-CS4558/*
 OS3307\ \(Modeling\)/*
 *.ova
+*.vdi
 .DS*
 *.rtf
+*.docx
+Rucker_lab2_report.pdf
