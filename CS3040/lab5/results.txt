@@ -1,0 +1,10 @@
+Compiler options	size
+==============================
+gcc -Wall -c		 17372
+--static -o		742956
+-Wall -c -O1		 17200
+-Wall -c -O2		 17120
+-Wall -c -O3		 17060
+-Wall -c -Os		 13104
+
+		
