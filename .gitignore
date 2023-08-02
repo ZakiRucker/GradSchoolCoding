@@ -4,8 +4,8 @@ a.out
 *.tar
 */CS3040.xcodeproj/*
 *.png
-CS3140/*
 CS3502/*
 CS4558/*
 OS3307\ \(Modeling\)/*
 *.ova
+.DS*

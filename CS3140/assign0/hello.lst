@@ -1,0 +1,5 @@
+     1                                  ; 0x0c
+     2                                          section .data
+     3 00000000 48656C6C6F20576F72-     msg:    db "Hello World" , 10
+     3 00000009 6C640A             
+     4                                  len:    equ $-msg
