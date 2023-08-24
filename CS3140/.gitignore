@@ -1,3 +1,4 @@
-a.out
+*.out
+*.o
 assign0/Hello
 assign0/hello_world.o
